@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "PTSansBold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/PTSansBold/PTSansBold.eot?#iefix") format("embedded-opentype"), url("../fonts/PTSansBold/PTSansBold.woff") format("woff"), url("../fonts/PTSansBold/PTSansBold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "PTSans-BoldItalic";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/PTSans-BoldItalic/PTSans-BoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/PTSans-BoldItalic/PTSans-BoldItalic.woff") format("woff"), url("../fonts/PTSans-BoldItalic/PTSans-BoldItalic.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "PTSans-Narrow";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/PTSans-Narrow/PTSans-Narrow.eot?#iefix") format("embedded-opentype"), url("../fonts/PTSans-Narrow/PTSans-Narrow.woff") format("woff"), url("../fonts/PTSans--Narrow/PTSans--Narrow.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "PTSans-NarrowBold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/PTSans-NarrowBold/PTSans-NarrowBold.eot?#iefix") format("embedded-opentype"), url("../fonts/PTSans-NarrowBold/PTSans-NarrowBold.woff") format("woff"), url("../fonts/PTSans-NarrowBold/PTSans-NarrowBold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "PTSansRegular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/PTSansRegular/PTSansRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/PTSansRegular/PTSansRegular.woff") format("woff"), url("../fonts/PTSansRegular/PTSansRegular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "RobotoCondensedBold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/RobotoCondensedBold/RobotoCondensedBold.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoCondensedBold/RobotoCondensedBold.woff") format("woff"), url("../fonts/RobotoCondensedBold/RobotoCondensedBold.ttf") format("truetype"); }
+ 
+@font-face {
+  font-family: "RobotoMedium";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/RobotoMedium/RobotoMedium.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoMedium/RobotoMedium.woff") format("woff"), url("../fonts/RobotoMedium/RobotoMedium.ttf") format("truetype"); }
+                
