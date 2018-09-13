@@ -1,2 +1,2 @@
 # Link to demo
-[Testgerm](http://valden.zzz.com.ua/pantomax/)
+[Pantomax](http://valden.zzz.com.ua/pantomax/)
